@@ -1,0 +1,6 @@
+{
+  "name": "VivaPrep AI",
+  "description": "AI-powered oral examination, viva defense, and technical presentation simulator built for AI in Education.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
